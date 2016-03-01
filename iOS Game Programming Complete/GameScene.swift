@@ -85,7 +85,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
     
     //2
     func setupPhysics() {
-        self.physicsWorld.gravity = CGVector( dx: 0.0, dy: -5.0 )
+        self.physicsWorld.gravity = CGVector( dx: 0.0, dy: -9.8 )
         self.physicsWorld.contactDelegate = self
     }
     

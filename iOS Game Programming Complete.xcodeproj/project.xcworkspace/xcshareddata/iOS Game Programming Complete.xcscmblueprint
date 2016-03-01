@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74FF0A31BA6E706FE490298FF6DA0F8DE0091556",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AAADDF61580ECE3E66DFD40312814929D439C1F4" : 0,
+    "74FF0A31BA6E706FE490298FF6DA0F8DE0091556" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0F514231-1A1B-4883-B716-AFF82585ACC7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AAADDF61580ECE3E66DFD40312814929D439C1F4" : "",
+    "74FF0A31BA6E706FE490298FF6DA0F8DE0091556" : "iOS%20Game%20Programming%20Complete\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS Game Programming Complete",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS Game Programming Complete.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Darthpwner\/iOS-Game-Programming-Complete.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74FF0A31BA6E706FE490298FF6DA0F8DE0091556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Darthpwner\/iOS-Game-Programming-Workshop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAADDF61580ECE3E66DFD40312814929D439C1F4"
+    }
+  ]
+}
